@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Bottom_menu"
+            android:label="@string/title_activity_bottom_menu"></activity>
     </application>
 
 </manifest>

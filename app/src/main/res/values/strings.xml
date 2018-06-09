@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">app_movil</string>
+    <string name="tv_titulo">Bienvenido a CC-APP</string>
+    <string name="tv_descripcion">Una Aplicación que te ayudará a llevar una vida saludable, mejorando tu estado fisico y emocional</string>
+    <string name="b_login">Iniciar Sesión</string>
+    <string name="b_registro">Registro</string>
+    <string name="title_activity_bottom_menu">bottom_menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
