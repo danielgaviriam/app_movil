@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "838332201726",
+    "firebase_url": "https://app-uv-moviles2018.firebaseio.com",
+    "project_id": "app-uv-moviles2018",
+    "storage_bucket": "app-uv-moviles2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838332201726:android:542a05e3ad7fb668",
+        "android_client_info": {
+          "package_name": "app.degm.com.app_movil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838332201726-dc3mama8n337fdf7uiug8aagnft7fauf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.degm.com.app_movil",
+            "certificate_hash": "ac911e631f03d7c255b82fd6ad6b5aab404f3482"
+          }
+        },
+        {
+          "client_id": "838332201726-muc9ehb70hjls3md9l9j58n00o6oirab.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "838332201726-muc9ehb70hjls3md9l9j58n00o6oirab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblYR4C7dVGZwd9nuBJjiDZ2Na1mnS_eY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838332201726-muc9ehb70hjls3md9l9j58n00o6oirab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
