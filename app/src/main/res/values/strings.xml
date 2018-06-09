@@ -7,5 +7,12 @@
     <string name="title_activity_bottom_menu">bottom_menu</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+
+
+    <string name="label_username">Nombre de Usuario / Email</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="label_pass">Contraseña</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="img_icon_desc">Icon App</string>
 </resources>
